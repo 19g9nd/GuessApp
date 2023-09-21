@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GuessApp\GuessApp\bin\Debug\net6.0\GuessApp.exe
+C:\Users\HP\source\repos\GuessApp\GuessApp\bin\Debug\net6.0\GuessApp.deps.json
+C:\Users\HP\source\repos\GuessApp\GuessApp\bin\Debug\net6.0\GuessApp.runtimeconfig.json
+C:\Users\HP\source\repos\GuessApp\GuessApp\bin\Debug\net6.0\GuessApp.dll
+C:\Users\HP\source\repos\GuessApp\GuessApp\bin\Debug\net6.0\GuessApp.pdb
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.dll
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\refint\GuessApp.dll
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.pdb
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\GuessApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\GuessApp\GuessApp\obj\Debug\net6.0\ref\GuessApp.dll
